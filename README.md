@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sukatmiran
 - 👀 I’m interested in e-government 
 - 🌱 I’m currently learning e-government aplication
-- 💞️ I’m looking to collaborate on my job
-- 📫 How to reach me in upgrade my skill
+- 💞️ I’m looking to collaborate on improving skills in my work
+- 📫 How to reach me in upgrade my skill to support my office 
 
 <!---
 sukatmiran/sukatmiran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
